@@ -1,7 +1,7 @@
-# CarND-Controls-PID
+# 无人驾驶(纳米学位)-第二学期-项目3-PID 控制器
+# CarND-Term2-Project3-PID_Controller (C++)
 
-# Overview
-This is the project for the PID Control course in Udacity's Self-Driving Car Engineer Nanodegree Program
+This is the 3rd project in Term 2 for the **Self-Driving Car Engineer** Nanodegree program at [Udacity](https://cn.udacity.com/course/self-driving-car-engineer--nd013)
 
 ### Goals
 In this project, the goal is to implement a PID controller in C++ to maneuver the vehicle around the lake race track.
