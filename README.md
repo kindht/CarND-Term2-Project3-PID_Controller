@@ -162,6 +162,6 @@ sudo chmod u+x {simulator_file_name}
     git checkout e94b6e1
     ```
  # Pass Certificate
-![](./Pass/Review-1.png)
+![](./Pass/Pass.png)
 ![](./Pass/Review-2.png)
 ![](./Pass/Review-3.png)
