@@ -121,7 +121,6 @@ For example. with Kp = 0.2, Ki = 0.001, Kd =1.0 , the vehicle ran well at the be
 ![](./Results/Result-0.2-0.001-1.0-02.png)
 
 
-
 # My Running Results
 My solution with `p[]={0.210001,  0.000271, 3.0}` was tested on the simulator and the vehicle is able to drive successfully around the track. 
 
@@ -162,9 +161,8 @@ sudo chmod u+x {simulator_file_name}
     cd uWebSockets
     git checkout e94b6e1
     ```
-    Some function signatures have changed in v0.14.x. See [this PR](https://github.com/udacity/CarND-MPC-Project/pull/3) for more details.
-* Simulator. You can download these from the [project intro page](https://github.com/udacity/self-driving-car-sim/releases) in the classroom.
-
-Fellow students have put together a guide to Windows set-up for the project [here](https://s3-us-west-1.amazonaws.com/udacity-selfdrivingcar/files/Kidnapped_Vehicle_Windows_Setup.pdf) if the environment you have set up for the Sensor Fusion projects does not work for this project. There's also an experimental patch for windows in this [PR](https://github.com/udacity/CarND-PID-Control-Project/pull/3).
-
-
+ # Pass Certificate
+![](./Pass/Pass.png)
+![](./Pass/Review-1.png)
+![](./Pass/Review-2.png)
+![](./Pass/Review-3.png)
